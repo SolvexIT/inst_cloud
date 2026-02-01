@@ -10,7 +10,7 @@
     "# Инструкция по установке мода",
     "",
     "Этот мод позволяет обходить ограничения на загрузку и просмотр контента.",
-    "",
+    "button{`default`_`download`_`https://example.com/files/tt_mod.apk`}",
     "### Основные шаги:",
     "1. Удалите оригинальный TikTok.",
     "2. Скачайте APK по ссылке ниже.",
@@ -22,6 +22,6 @@
     "# Команда для проверки подписи через ADB",
     "adb shell dumpsys package com.zhiliaoapp.musically | grep signatures",
     "```",
-    "button{`default`_`download`_`https://example.com/files/tt_mod.apk`} | button{`default`_`source_thread`_`https://4pda.to/forum`}"
+    "button{`default`_`download`_`https://example.com/files/tt_mod.apk`} button{`default`_`source_thread`_`https://4pda.to/forum`}"
   ]
 }
