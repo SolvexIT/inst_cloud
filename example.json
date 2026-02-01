@@ -22,6 +22,6 @@
     "# Команда для проверки подписи через ADB",
     "adb shell dumpsys package com.zhiliaoapp.musically | grep signatures",
     "```",
-    "[download](https://example.com/files/tt_mod.apk) | [source_thread](https://4pda.to/forum)"
+    "button{`default`_`download`_`https://example.com/files/tt_mod.apk`} | button{`default`_`source_thread`_`https://4pda.to/forum`}"
   ],
 }
