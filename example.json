@@ -6,26 +6,6 @@
     "author": "ouoertheo",
     "last_updated": "2026-01-30"
   },
-  "technical": {
-    "target_app": "com.zhiliaoapp.musically",
-    "regex_patterns": [
-      {
-        "name": "ads_banner",
-        "pattern": "ad_view_container|banner_ads_layout",
-        "description": "Поиск рекламных блоков в разметке"
-      },
-      {
-        "name": "region_lock",
-        "pattern": "ISO_3166_1|getSimCountryIso",
-        "description": "Поиск проверки региона"
-      }
-    ],
-    "script_commands": {
-      "action": "replace_string",
-      "find": "RU",
-      "replace": "US"
-    }
-  },
   "content": [
     "# Инструкция по установке мода",
     "",
@@ -41,10 +21,7 @@
     "```bash",
     "# Команда для проверки подписи через ADB",
     "adb shell dumpsys package com.zhiliaoapp.musically | grep signatures",
-    "```"
+    "```",
+    "[download](https://example.com/files/tt_mod.apk) | [source_thread](https://4pda.to/forum)"
   ],
-  "links": {
-    "download": "https://example.com/files/tt_mod.apk",
-    "source_thread": "https://4pda.to/forum/..."
-  }
 }
