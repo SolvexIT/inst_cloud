@@ -23,5 +23,5 @@
     "adb shell dumpsys package com.zhiliaoapp.musically | grep signatures",
     "```",
     "button{`default`_`download`_`https://example.com/files/tt_mod.apk`} | button{`default`_`source_thread`_`https://4pda.to/forum`}"
-  ],
+  ]
 }
