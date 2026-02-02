@@ -1,9 +1,9 @@
 @info<
-id<example>
-title<TikTok Mod (Работа в РФ)>
-version<0.2>
+id<v2rayN>
+title<v2rayN (Windows)>
+version<1>
 author<SolvexIT>
-last_updated<2026-01-30>
+last_updated<2026-02-02>
 >@info
 
 @content<
@@ -23,7 +23,7 @@ last_updated<2026-01-30>
 	- **Как узнать свою архитектуру?**
 		1. Переходим на `Пуск → Параметры → Система → О системе → Характеристики устройства`.
 		2. И смотрим что тут написано:
-		- ![[Project/SolvexIT/Other/Information/Instruction on v2rayN-NG/Instructions on how to use v2rayN on Windows 10-11/Media/Снимок экрана 2025-11-05 131040.png|500]]
+		- img{size<500px>, position<left>, link<111>
 2. Установка:
 	- [Вы можете скачать v2rayN с GitHub самостоятельно](https://github.com/2dust/v2rayN/releases/) **(советуем устанавливать только релизные версии)**.
 	- Доступны несколько вариантов, отличающихся архитектурой `(x64 / arm64)` и интерфейсом. **(А так-же вы можете установить программу по ссылкам ниже после названий, если например совсем в GitHub не разбираетесь, ссылки ведут на версию [7.16.6](https://github.com/2dust/v2rayN/releases/tag/7.16.6))**:
