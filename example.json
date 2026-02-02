@@ -17,7 +17,7 @@
     "3. Примените настройки плагина, если видео не подгружаются.",
     "",
     "> **Внимание:** Используйте на свой страх и риск. Мы рекомендуем заходить через новый аккаунт.",
-    "img{size<50%>, position<center>, link<https://sf-static.tiktokcdn.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png>}",
+    "img{size<50%>, position<left>, link<https://sf-static.tiktokcdn.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png>}",
     "",
     "```bash",
     "# Команда для проверки подписи через ADB",
