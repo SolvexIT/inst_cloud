@@ -68,13 +68,13 @@ last_updated<2026-02-02>
 # Подключение и завершение
 1. Подключение:
 	1. Если вы состоите в нашем телеграмм канале, то можете посмотреть где именно достать **ссылку**:
-		   - img{size<500px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Windows/Media/2.png>
+		   - img{size<500px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Windows/Media/2.png>}
 	2. После копирования нажимаем `Серверы → Импорт URL из буфера обмена (Ctrl + V)`:
-		- img{size<500px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Windows/Media/3.png>
+		- img{size<500px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Windows/Media/3.png>}
 		- **Если у вас ссылка на подписку (с несколькими `VPN`) то вам будет хорошо узнать [[#Как обновлять подписку|как обновить подписку]]**.
 	3. Нажимаем `Перезагрузка`
 	4. Тут отображаются пинг, если он не `-1` то всё хорошо:
-		- img{size<500px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Windows/Media/4.png>
+		- img{size<500px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Windows/Media/4.png>}
 ---
 # Дополнительная информация
 ## Как обновить приложение
@@ -85,7 +85,7 @@ last_updated<2026-02-02>
 		- Вам всё равно придется давать разрешение администратора при нажатии ярлыка **(что просто удобнее как кажется некоторым пользователям)**
 	- Что делать:
 		  1. Нажимаете на ярлык правой кнопкой мыши, после `Свойства` и в появившемся окне `Совместимость` ставим галочку на `Запускать эту програму от имени администратора`, сохраняем изменения нажав на `OK`:
-		     img{size<500px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Windows/Media/5.png>
+		     img{size<500px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Windows/Media/5.png>}
 ## Как обновлять подписку
 Для обновления подписки всего лишь нажать на `Группа подписки`, а после на `Обновить подписку без прокси` **(то есть без использования `VPN`)** или `Обновить подписку с прокси` **(то есть с использованием `VPN` если без блокируют)** готово! Делайте это когда покажется нужным или если вас уведомят о том что надо обновить подписку!
 >@content
