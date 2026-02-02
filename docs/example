@@ -1,0 +1,28 @@
+@info<
+id<example>
+title<TikTok Mod (Работа в РФ)>
+version<0.2>
+author<SolvexIT>
+last_updated<2026-01-30>
+>@info
+
+@content<
+Инструкция по установке мода
+---
+Этот мод позволяет обходить ограничения на загрузку и просмотр контента.
+    Бле
+
+### Основные шаги:
+1. **Удалите** *оригинальный* TikTok.
+2. [Скачайте APK](https://example.com/files/tt_mod.apk) по __ссылке ниже__.
+3. ~~Примените~~ настройки плагина, если видео не подгружаются.
+
+> **Внимание:** Используйте на свой страх и риск. Мы рекомендуем заходить через новый аккаунт.
+img{size<50%>, position<center>, link<https://sf-static.tiktokcdn.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png>}
+
+```bash
+# Команда для проверки подписи через ADB
+- adb shell dumpsys package com.zhiliaoapp.musically | grep signatures
+```
+button{`warning`_`download`_`https://example.com/files/tt_mod.apk`} button{type<default>, name<source_thread>, link<https://4pda.to/forum>}
+>@content
