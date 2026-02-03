@@ -9,7 +9,7 @@ last_updated<2026-02-02>
 @content<
 ::: center
 ## Выберите операционную систему:
-button{type<default>, name<Windows>, link<v2ray/Windows/v2rayN>}
 button{type<default>, name<Android>, link<v2ray/Android/v2rayNG>}
+button{type<default>, name<Windows>, link<v2ray/Windows/v2rayN>}
 :::
 >@content

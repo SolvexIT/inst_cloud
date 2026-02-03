@@ -1,0 +1,15 @@
+@info<
+id<Support>
+title<SolvexIT support>
+version<1>
+author<SolvexIT>
+last_updated<2026-02-03>
+>@info
+
+@content<
+::: center
+# Поддержка и сотрудничество
+Вы можете написать и в приватном канале и в @SolvexIT
+img{size<250px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/Media/Support_1.png>}
+:::
+>@content
