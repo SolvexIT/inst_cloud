@@ -1,0 +1,13 @@
+@info<
+id<v2ray>
+title<v2ray>
+version<1>
+author<SolvexIT>
+last_updated<2026-02-02>
+>@info
+
+@content<
+Выберите операционную систему:
+button{type<default>, name<Windows>, link<v2ray/Windows/v2rayN>}
+button{type<default>, name<Android>, link<v2ray/Android/v2rayNG>}
+>@content
