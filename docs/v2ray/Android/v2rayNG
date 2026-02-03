@@ -33,21 +33,21 @@ last_updated<2026-02-03>
 ---
 # Настройка:
 ## 1 Шаг
-img{size<250px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Android/Media/1.jpg>}
+img{size<250px>, position<left>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Android/Media/1.jpg>}
 1. **Красный круг:** Нажимаем на плюсик и выбираем _"Импорт из буфера обмена"_ **(должна вставиться последняя ссылка)** + **Если у вас ссылка на подписку (с несколькими `VPN`) то вам будет хорошо узнать [[#Как обновлять подписку|как обновить подписку]]**.
  2. **Жёлтый круг:** нажимаем на три полоски и переходим к второй картинке.
 3. **(Синий круг: включить `VPN`, нажимаем после всей инструкции)**.
 ## 2 Шаг
-img{size<250px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Android/Media/2.jpg>}
+img{size<250px>, position<left>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Android/Media/2.jpg>}
 1. **Красная линия:** переходим к [[#3 Шаг|третьему шагу]], после возвращаемся.
 2. **Жёлтая линия:** переходим к [[#4 Шаг|четвёртому шагу]].
 ## 3 Шаг
-img{size<250px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Android/Media/3.jpg>}
+img{size<250px>, position<left>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Android/Media/3.jpg>}
 1. Делаем ползунки как на **красных кругах**.
 2. **Синие линии:** Выбираем приложение в котором **НЕ** будет работать `VPN` **(банки и другие российские приложения)**, а с помощью поиска будет легче найти их: **(зелёный круг)**.
 3. [[#2 Шаг|Не забудем вернуться к 2-му пункту 2-ого шага]] **(необязательно)**.
 ## 4 Шаг
-img{size<250px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Android/Media/4.jpg>}
+img{size<250px>, position<left>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/v2ray/Android/Media/4.jpg>}
 1. **Красная линия:** Нажимаем и выбираем _"runetfreedom/russia-v2ray-rules-dat"_.
 2. **Жёлтый круг:** Нажимаем и ждём завершения скачивания. (ПО  ХОРОШЕМУ ВЫ ДОЛЖНЫ ИНОГДА ОБНОВЛЯТЬ НАЖИМАЯ ЭТУ КНОПКУ)
 ---
