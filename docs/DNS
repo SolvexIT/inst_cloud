@@ -47,7 +47,7 @@ last_updated<2026-02-03>
 	- `Поключение и общий доступ → частная DNS` или `Больше возможностей подключения → частная DNS`.
 	- **Вы можете и просто в поиске настроек найти его написав `"DNS"`.**
 2. Выбираете ручной ввод `DNS` и пишете известный вам хоста (==[[#^3dbee5|hostname]]==)!
-	img{size<250px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/DNS/Media/1.png>}
+	img{size<250px>, position<center>, link<https://raw.githubusercontent.com/SolvexIT/inst_cloud/refs/heads/main/docs/Media/DNS_1.png>}
 3. Теперь ограничения по санкциям вам нипочём! **(ваш IP не меняется)**
 ### Настроить DNS на v2rayNG
 - У вас есть выбор, вы хотите: 
