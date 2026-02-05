@@ -25,7 +25,7 @@ last_updated<2026-02-03>
 		- Выбрать самому: [1.10.31](https://github.com/2dust/v2rayNG/releases/tag/1.10.31)
 		- Установить универсальную версию **(если не знаете архитектуру/вам лень)**: [v2rayNG_1.10.31_universal.apk](https://github.com/2dust/v2rayNG/releases/download/1.10.31/v2rayNG_1.10.31_universal.apk)
 2. Пред настройка:
-	1. Скачиваем `ZIP` файл ([v2rayNG_config.zip](https://teletype.in/@solvex/v2rayNG--configuration))
+	1. Скачиваем `ZIP` файл ([v2rayNG_config.zip](/v2ray/Android/v2rayNG_configuration))
 	2. После скачивания заходим в само приложение (`v2rayNG`), даём разрешение на уведомление, а затем нажимаем на `три полоски → О приложении → Восстановление конфигурации`, затем выбираем скачанный `ZIP`
 		- **А где он?**
 			- Если скачали из `Telegram`: `Downlang > Telegram`.
